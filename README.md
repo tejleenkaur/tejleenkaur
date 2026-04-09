@@ -1,57 +1,54 @@
+# 🌸 Hello, I'm Tejleen!
 
+*How are you doing? I'm [@tejleenkaur](https://linkedin.com/in/tejleenkaur) - So nice to meet you! 🌙*
 
-## Hi there, I'm Tejleen Kaur 🌸
+I'm a Computer Science graduate from York University, based in Toronto, Canada. 🍁🌸
 
-🌺 CS Graduate | York University  
-📍 Toronto, Canada  
-🌼 CAPM & CSM Certified  
-🌷 Actively seeking BA, Project Coordinator & QA Analyst roles  
+I spent two years at theScore working as a QA Analyst and Project Coordinator - where I fell in love with two things: finding that one bug everyone else missed 🌼 and making sure the whole team is moving in the right direction together. Whether it's spotting a defect before it reaches real people, coordinating across teams to hit a deadline, or just making sure every tiny detail is exactly right - that's where I thrive. I genuinely believe that great products are built by people who care deeply about *both* quality and people. 🌸
 
----
+I hold my CAPM and CSM certifications and I'm actively looking for roles in Business Analysis, Project Coordination, and Quality Assurance. 🌷
 
-## 🌸 About Me
-
-I'm a passionate and detail-oriented professional who loves turning complex 
-problems into clean, organized solutions. With hands-on experience in business 
-analysis, project coordination, and quality assurance from two internships at 
-theScore, I bring a unique blend of technical knowledge and people skills to 
-every team I join.
-
-I believe great work happens when curiosity meets structure - and I bring both 
-to everything I do 🌻
+Apart from work you can find me networking, volunteering with Khalsa Aid International, Langarseva.ca, Prabh Aasra and many more and exploring Toronto, or enjoying a good matcha. 🌙
 
 ---
 
-## 🌺 What I Do
 
-- 🌷 *Business Analysis* - Requirements gathering, user stories, gap analysis, stakeholder engagement
-- 🌸 *Project Coordination* - Agile delivery, sprint planning, risk tracking, release management  
-- 🌼 *Quality Assurance* - Test planning, UAT, defect tracking, regression testing
-- 🌻 *Reporting & Insights* - KPI dashboards, Power BI, Excel, data-driven decisions
 
----
+## 🌙 A bit more about me...
 
-## 🌸 Tools & Technologies
-
-| Category | Tools |
-|----------|-------|
-| Project & QA | Jira, TestRail, Confluence, SharePoint |
-| Data & Reporting | SQL, Excel, Power BI, Tableau |
-| Collaboration | Microsoft 365, Teams, Slack |
-
----
-
-## 🌷 Certifications
-
-🏅 *Certified Associate in Project Management (CAPM)* - PMI, Oct 2025  
-🏅 *Certified Scrum Master (CSM)* - Scrum Alliance, Jul 2025  
+```javascript
+const tejleen = {
+    pronouns: "she | her",
+    based: "Toronto, Canada 🍁",
+    certifications: ["CAPM 🌸", "CSM 🌼"],
+    experience: ["QA Analyst", "Project Coordinator", "Business Analyst"],
+    tools: ["Jira", "TestRail", "Confluence", "SQL", "Power BI", "Excel"],
+    hobbies: ["networking", "volunteering", "matcha", "exploring Toronto 🌙"],
+    currentlyLooking: true
+}
+```
 
 ---
 
-## 🌼 Let's Connect
+## 🌸 What I Do
 
-I'm always open to meaningful conversations, new opportunities, and 
-collaborations that make a difference. Feel free to reach out! 🌸
+🌷 *Business Analysis* - Requirements gathering, user stories, gap analysis, stakeholder engagement
 
-📫 tejleenkaur0525@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/tejleenkaur)
+🌼 *Project Coordination* - Agile delivery, sprint planning, risk tracking, release management
+
+🌸 *Quality Assurance* - Test planning, UAT, defect tracking, regression testing
+
+🌙 *Reporting & Insights* - KPI dashboards, Power BI, Excel, data-driven decisions
+
+---
+
+## ✨ Let's keep in touch!
+
+I'm always open to meaningful conversations, new opportunities, and collaborations. Don't be shy! 🌸🌙
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejleenkaur0525@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejleenkaur)
+
+---
+
+<p align="center">🌸 🌙 🌼 🌷 🌻 🌙 🌸</p>
